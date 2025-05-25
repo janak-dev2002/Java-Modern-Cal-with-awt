@@ -1,6 +1,6 @@
 # Java Modern Calculator
 
-![Calculator UI](src/img/ui3.png)
+![Calculator UI](src/img/ui.png)
 
 ## Overview
 This project is a visually modern, feature-rich calculator application built in Java using AWT. It provides a beautiful, custom-styled interface with image-based buttons and panels, supporting both basic and some advanced mathematical operations. The project is designed for educational and demonstrative purposes, showcasing custom UI design and event-driven programming in Java.
@@ -14,13 +14,13 @@ This project is a visually modern, feature-rich calculator application built in 
 - **Responsive Feedback**: Button hover and click effects.
 
 ## Screenshots
-Add screenshots of the UI here:
-```
-![Main UI](src/img/ui3.png)
-```
-You can add more screenshots from the `src/img/` or `src/new_ani/` folders.
+
+![Main UI](src/img/about.png)
+
+![Main UI](src/imgs/ui_with_about.png.png)
 
 ## How to Build and Run
+
 ### Requirements
 - Java JDK 8 or higher
 - (Optional) NetBeans or any IDE supporting Ant projects
@@ -51,8 +51,6 @@ Cal.java           # Main calculator source code
 src/img/           # UI images for buttons and panels
 src/new_ani/       # Animated UI elements
 build.xml          # Ant build script
-manifest.mf        # Manifest for JAR packaging
-nbproject/         # NetBeans project files
 ```
 
 ## Customization
@@ -60,11 +58,11 @@ nbproject/         # NetBeans project files
 - Edit `Cal.java` to add or modify calculator logic.
 
 ## Author
-- Name: *[Your Name Here]*
-- Institute: *[Your Institute]*
+- Name: *Sangeeth*
+- Purpose: *Accademic Assingment*
+- Institute: *Java Institute For Advance Technology*
 
 ## License
-This project is for educational use. Add your license here if needed.
+This project is for educational use.
 
 ---
-*Feel free to enhance this README with more details or images from your assignment document!*

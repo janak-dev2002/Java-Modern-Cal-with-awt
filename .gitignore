@@ -29,8 +29,6 @@ dist/
 *.swp
 *~
 
-# Ignore generated images (if any)
-src/imgs/
 
 # User-specific files
 *.user

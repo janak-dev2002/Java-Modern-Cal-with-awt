@@ -20,7 +20,7 @@ This project is a visually modern, feature-rich calculator application built in 
 --- -->
 
 ![About](src/img/about.png)
---
+---
 
 
 ## How to Build and Run

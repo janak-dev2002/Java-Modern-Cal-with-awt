@@ -15,9 +15,9 @@ This project is a visually modern, feature-rich calculator application built in 
 
 ## Screenshots
 
-![Main UI](src/img/about.png)
+![About](src/img/about.png)
 
-![Main UI](src/imgs/ui_with_about.png)
+![Main UI with about](src/imgs/ui_with_about.png)
 
 ## How to Build and Run
 

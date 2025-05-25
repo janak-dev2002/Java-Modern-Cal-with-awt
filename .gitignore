@@ -1,0 +1,36 @@
+# Compiled class files
+build/
+*.class
+
+# NetBeans project files
+nbproject/private/
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Package distribution
+*.jar
+*.war
+*.ear
+
+dist/
+
+# Misc
+*.swp
+*~
+
+# Ignore generated images (if any)
+src/imgs/
+
+# User-specific files
+*.user

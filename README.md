@@ -1,7 +1,5 @@
 # Java Modern Calculator
 
-![Calculator UI](src/img/ui.png)
-
 ## Overview
 This project is a visually modern, feature-rich calculator application built in Java using AWT. It provides a beautiful, custom-styled interface with image-based buttons and panels, supporting both basic and some advanced mathematical operations. The project is designed for educational and demonstrative purposes, showcasing custom UI design and event-driven programming in Java.
 
@@ -15,9 +13,15 @@ This project is a visually modern, feature-rich calculator application built in 
 
 ## Screenshots
 
-![About](src/img/about.png)
+![Calculator UI](src/img/ui.png)
+---
 
 ![Main UI with about](src/imgs/ui_with_about.png)
+---
+
+![About](src/img/about.png)
+--
+
 
 ## How to Build and Run
 
